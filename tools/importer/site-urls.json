@@ -1,0 +1,74 @@
+{
+  "originUrl": "https://www.wasl.ae",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://validate.perfdrive.com/?ssa=5a4ff717-02c2-498f-bc80-31b9f1d508a0&ssb=07075208337&ssc=https%3A%2F%2Fwww.wasl.ae%2Fen%2Fabout-us%2Finvestment-philosophy&ssi=1088de1e-cifj-4c13-ab67-d4f7302f0921&ssk=botmanager_support@radware.com&ssm=41924625567215471105831222981182&ssn=eddd485bff566561ea130e9ca809c9cd544662015e2b-9f54-44b1-9dd14b&sso=85c8d052-8c9481a92ba674545e0d9fe2914b4fd1f2613f8a4245bac1&ssp=21061197311760519538176058309823657&ssq=24094776639983159100666399434440619041467&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6Indhc2wuYWUiLCJfX3V6bWYiOiI3ZjkwMDA2MjAxNWUyYi05ZjU0LTQ0YjEtOTA1Mi04Yzk0ODFhOTJiYTYxLTE3NjA1NjYzOTk1MDkwLTAwMTE2NThkOWZiZWMxYjE4OWIxMCIsInV6bXgiOiI3ZjkwMDA2ZTE4MTBjZS01NGU2LTRiNTAtOTQ2NC0wZmYwNDViMTA4YmYxLTE3NjA1NjYzOTk1MDkwLTExZDAyMTY2YTNmNmRjZjAxMCJ9",
+      "source": "MANUAL",
+      "targetPath": "/",
+      "id": "c5d0b847ee38f765498464938bbc7c8f10249cec"
+    },
+    {
+      "url": "https://validate.perfdrive.com/?ssa=97d7e87d-41e6-4432-bf00-75ca83cb9896&ssb=07075208337&ssc=https%3A%2F%2Fwww.wasl.ae%2Fen%2Fabout-us%2Fexecutive-team&ssi=c2e34dfc-cifj-45b7-a095-9f71e46d5546&ssk=botmanager_support@radware.com&ssm=41924625567215471105831222981182&ssn=eddd485b46b74804e58c9d34a2b1c9cd544676ebf076-802b-4185-bdd14b&sso=85c8dc09-3af71c16149e74545e0d56b437919b1d21e2b5a14245bac1&ssp=21061197311760519538176058309823657&ssq=24094776639983159100666399434440619041467&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6Indhc2wuYWUiLCJ1em14IjoiN2Y5MDAwNTUyYTg5MDctYzQ2Yi00NDdkLWJjNjQtNWRlMzU2NmY5YjNkMS0xNzYwNTY2Mzk5MjI1MC1lMzhjNjI0OTVkMGRjNjg4MTAiLCJfX3V6bWYiOiI3ZjkwMDA3NmViZjA3Ni04MDJiLTQxODUtYmMwOS0zYWY3MWMxNjE0OWUxLTE3NjA1NjYzOTkyMjUwLTAwMWU0ZGI0MzE3YjViNWQ0OWYxMCJ9",
+      "source": "MANUAL",
+      "targetPath": "/",
+      "id": "e5e04685be78d990cb05c25feac43c057871c549"
+    },
+    {
+      "url": "https://validate.perfdrive.com/?ssa=da393ac4-512d-4da7-8bab-743e9ebd1942&ssb=07708274221&ssc=https%3A%2F%2Fwww.wasl.ae%2Fen%2Fabout-us%2Fcareer-opportunities&ssi=5da48754-cifj-48dd-a696-9b500dd3104a&ssk=botmanager_support@radware.com&ssm=03497107635519723105089955132658&ssn=7f73fa57604bbadd278520ea803e775465fc29c35881-f7ee-436a-bfe5b4&sso=66696cd4-85b1016198a79c18e8c3a3b7de5909341893277c8ffa8699&ssp=63299704221760564776176052370740921&ssq=76364236639832210835366398339270834507944&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6Indhc2wuYWUiLCJ1em14IjoiN2Y5MDAwZDg1NGQzNzYtNjgxOS00NmNlLTljMmYtZWM2NWI2MmY1NjExMS0xNzYwNTY2Mzk4NjU4MC1jNGQ1ZjY3ZWNiMTAxZmVmMTAiLCJfX3V6bWYiOiI3ZjkwMDAyOWMzNTg4MS1mN2VlLTQzNmEtYmNkNC04NWIxMDE2MTk4YTcxLTE3NjA1NjYzOTg2NTgwLTAwMWExMjI0YmNhMmI0N2M2NjcxMCJ9",
+      "source": "MANUAL",
+      "targetPath": "/",
+      "id": "48de1112570de3d6e48cc6cb536821c58a09c6fb"
+    },
+    {
+      "url": "https://validate.perfdrive.com/?ssa=e64cc73b-0064-4c46-b2e9-9ed6ba363bfb&ssb=07075208337&ssc=https%3A%2F%2Fwww.wasl.ae%2Fen%2Fabout-us%2Fcorporate-social-responsibility&ssi=9e500d95-cifj-40a1-9906-9ee585e52be5&ssk=botmanager_support@radware.com&ssm=41924625567215471105831222981182&ssn=eddd485b842a4adefb9a3242a57bc9cd5446cb9fe655-1236-4780-add14b&sso=85c8df4b-eee60e3556a474545e0db92320b7d769aaae411f4245bac1&ssp=21061197311760519538176058309823657&ssq=24094776639883159100666398434440619041467&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6Indhc2wuYWUiLCJfX3V6bWYiOiI3ZjkwMDBjYjlmZTY1NS0xMjM2LTQ3ODAtYWY0Yi1lZWU2MGUzNTU2YTQxLTE3NjA1NjYzOTg5NDEwLTAwMTMwOTJjYTkyNTcxYTExNDkxMCIsInV6bXgiOiI3ZjkwMDA1MGE0NTM1Yy01MjE4LTQ4ZTUtYjhjOC05YWIzODljMzM1ZWIxLTE3NjA1NjYzOTg5NDEwLWMwNzNlYTVhY2JkNjU3NTkxMCJ9",
+      "source": "MANUAL",
+      "targetPath": "/",
+      "id": "7f2f31c78f8b90c1358c725482dd9e1c1f234ff4"
+    },
+    {
+      "url": "https://www.wasl.ae/en",
+      "source": "MANUAL",
+      "targetPath": "/en",
+      "id": "fb28af49b2704673a24c69333de6bbd7f2026e96"
+    },
+    {
+      "url": "https://www.wasl.ae/en/about-us",
+      "source": "MANUAL",
+      "targetPath": "/en/about-us",
+      "id": "8c9c9ed2448270f1467425c2a1edd1ea7104fd6b"
+    }
+  ],
+  "lastCrawled": "MANUAL",
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "message": "resource crawl error: Url https://www.wasl.ae/en/about-us/career-opportunities: 302 Moved Temporarily Redirect: https://validate.perfdrive.com/?ssa=da393ac4-512d-4da7-8bab-743e9ebd1942&ssb=07708274221&ssc=https%3A%2F%2Fwww.wasl.ae%2Fen%2Fabout-us%2Fcareer-opportunities&ssi=5da48754-cifj-48dd-a696-9b500dd3104a&ssk=botmanager_support@radware.com&ssm=03497107635519723105089955132658&ssn=7f73fa57604bbadd278520ea803e775465fc29c35881-f7ee-436a-bfe5b4&sso=66696cd4-85b1016198a79c18e8c3a3b7de5909341893277c8ffa8699&ssp=63299704221760564776176052370740921&ssq=76364236639832210835366398339270834507944&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6Indhc2wuYWUiLCJ1em14IjoiN2Y5MDAwZDg1NGQzNzYtNjgxOS00NmNlLTljMmYtZWM2NWI2MmY1NjExMS0xNzYwNTY2Mzk4NjU4MC1jNGQ1ZjY3ZWNiMTAxZmVmMTAiLCJfX3V6bWYiOiI3ZjkwMDAyOWMzNTg4MS1mN2VlLTQzNmEtYmNkNC04NWIxMDE2MTk4YTcxLTE3NjA1NjYzOTg2NTgwLTAwMWExMjI0YmNhMmI0N2M2NjcxMCJ9",
+      "url": "https://www.wasl.ae/en/about-us/career-opportunities"
+    },
+    {
+      "message": "resource crawl error: Url https://www.wasl.ae/en/about-us/corporate-social-responsibility: 302 Moved Temporarily Redirect: https://validate.perfdrive.com/?ssa=e64cc73b-0064-4c46-b2e9-9ed6ba363bfb&ssb=07075208337&ssc=https%3A%2F%2Fwww.wasl.ae%2Fen%2Fabout-us%2Fcorporate-social-responsibility&ssi=9e500d95-cifj-40a1-9906-9ee585e52be5&ssk=botmanager_support@radware.com&ssm=41924625567215471105831222981182&ssn=eddd485b842a4adefb9a3242a57bc9cd5446cb9fe655-1236-4780-add14b&sso=85c8df4b-eee60e3556a474545e0db92320b7d769aaae411f4245bac1&ssp=21061197311760519538176058309823657&ssq=24094776639883159100666398434440619041467&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6Indhc2wuYWUiLCJfX3V6bWYiOiI3ZjkwMDBjYjlmZTY1NS0xMjM2LTQ3ODAtYWY0Yi1lZWU2MGUzNTU2YTQxLTE3NjA1NjYzOTg5NDEwLTAwMTMwOTJjYTkyNTcxYTExNDkxMCIsInV6bXgiOiI3ZjkwMDA1MGE0NTM1Yy01MjE4LTQ4ZTUtYjhjOC05YWIzODljMzM1ZWIxLTE3NjA1NjYzOTg5NDEwLWMwNzNlYTVhY2JkNjU3NTkxMCJ9",
+      "url": "https://www.wasl.ae/en/about-us/corporate-social-responsibility"
+    },
+    {
+      "message": "resource crawl error: Url https://www.wasl.ae/en/about-us/executive-team: 302 Moved Temporarily Redirect: https://validate.perfdrive.com/?ssa=97d7e87d-41e6-4432-bf00-75ca83cb9896&ssb=07075208337&ssc=https%3A%2F%2Fwww.wasl.ae%2Fen%2Fabout-us%2Fexecutive-team&ssi=c2e34dfc-cifj-45b7-a095-9f71e46d5546&ssk=botmanager_support@radware.com&ssm=41924625567215471105831222981182&ssn=eddd485b46b74804e58c9d34a2b1c9cd544676ebf076-802b-4185-bdd14b&sso=85c8dc09-3af71c16149e74545e0d56b437919b1d21e2b5a14245bac1&ssp=21061197311760519538176058309823657&ssq=24094776639983159100666399434440619041467&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6Indhc2wuYWUiLCJ1em14IjoiN2Y5MDAwNTUyYTg5MDctYzQ2Yi00NDdkLWJjNjQtNWRlMzU2NmY5YjNkMS0xNzYwNTY2Mzk5MjI1MC1lMzhjNjI0OTVkMGRjNjg4MTAiLCJfX3V6bWYiOiI3ZjkwMDA3NmViZjA3Ni04MDJiLTQxODUtYmMwOS0zYWY3MWMxNjE0OWUxLTE3NjA1NjYzOTkyMjUwLTAwMWU0ZGI0MzE3YjViNWQ0OWYxMCJ9",
+      "url": "https://www.wasl.ae/en/about-us/executive-team"
+    },
+    {
+      "message": "resource crawl error: Url https://www.wasl.ae/en/about-us/investment-philosophy: 302 Moved Temporarily Redirect: https://validate.perfdrive.com/?ssa=5a4ff717-02c2-498f-bc80-31b9f1d508a0&ssb=07075208337&ssc=https%3A%2F%2Fwww.wasl.ae%2Fen%2Fabout-us%2Finvestment-philosophy&ssi=1088de1e-cifj-4c13-ab67-d4f7302f0921&ssk=botmanager_support@radware.com&ssm=41924625567215471105831222981182&ssn=eddd485bff566561ea130e9ca809c9cd544662015e2b-9f54-44b1-9dd14b&sso=85c8d052-8c9481a92ba674545e0d9fe2914b4fd1f2613f8a4245bac1&ssp=21061197311760519538176058309823657&ssq=24094776639983159100666399434440619041467&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6Indhc2wuYWUiLCJfX3V6bWYiOiI3ZjkwMDA2MjAxNWUyYi05ZjU0LTQ0YjEtOTA1Mi04Yzk0ODFhOTJiYTYxLTE3NjA1NjYzOTk1MDkwLTAwMTE2NThkOWZiZWMxYjE4OWIxMCIsInV6bXgiOiI3ZjkwMDA2ZTE4MTBjZS01NGU2LTRiNTAtOTQ2NC0wZmYwNDViMTA4YmYxLTE3NjA1NjYzOTk1MDkwLTExZDAyMTY2YTNmNmRjZjAxMCJ9",
+      "url": "https://www.wasl.ae/en/about-us/investment-philosophy"
+    }
+  ],
+  "errorCountMessage": "{\"E_302\":4}"
+}
