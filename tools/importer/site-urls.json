@@ -1,0 +1,629 @@
+{
+  "originUrl": "https://www.wix.com",
+  "aborted": false,
+  "lastCrawled": "https://www.wix.com/website-template/view/html/1792",
+  "urls": [
+    {
+      "url": "https://www.wix.com/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "f499c6168261f151d92ebaa2a350a9ced8b47d98"
+    },
+    {
+      "url": "https://www.wix.com/ai-website-builder",
+      "source": "CRAWL",
+      "targetPath": "/ai-website-builder",
+      "id": "bc22eea3853fdbd3aa2d98a79ef452702e3615cc"
+    },
+    {
+      "url": "https://www.wix.com/blog",
+      "source": "CRAWL",
+      "targetPath": "/blog",
+      "id": "7cfaf3691bdcb8c908958d41a3b5ebde6956c666"
+    },
+    {
+      "url": "https://www.wix.com/blog/how-long-does-it-take-to-build-a-website",
+      "source": "CRAWL",
+      "targetPath": "/blog/how-long-does-it-take-to-build-a-website",
+      "id": "a264083751bac3eead51559b1e93eb0ddb0d2c02"
+    },
+    {
+      "url": "https://www.wix.com/blog/how-much-does-a-website-cost",
+      "source": "CRAWL",
+      "targetPath": "/blog/how-much-does-a-website-cost",
+      "id": "3fccf6e0e362db2f03aade427e4ff4d34527de07"
+    },
+    {
+      "url": "https://www.wix.com/blog/how-to-build-website-from-scratch-guide",
+      "source": "CRAWL",
+      "targetPath": "/blog/how-to-build-website-from-scratch-guide",
+      "id": "4daa693f46f94f2fa44f27d536f6db734f0d095d"
+    },
+    {
+      "url": "https://www.wix.com/blog/how-to-design-a-website",
+      "source": "CRAWL",
+      "targetPath": "/blog/how-to-design-a-website",
+      "id": "c10e51a82904cade08e6fb5f98ed9d9e4610a124"
+    },
+    {
+      "url": "https://www.wix.com/blog/how-to-make-online-design-portfolio-guide",
+      "source": "CRAWL",
+      "targetPath": "/blog/how-to-make-online-design-portfolio-guide",
+      "id": "697b731cdfdb551b89a4f84e094ca2a57815b985"
+    },
+    {
+      "url": "https://www.wix.com/blog/how-to-monetize-a-website",
+      "source": "CRAWL",
+      "targetPath": "/blog/how-to-monetize-a-website",
+      "id": "d67e42d69bfb52874c09de25f758074b5bf0aea9"
+    },
+    {
+      "url": "https://www.wix.com/blog/how-to-sell-online",
+      "source": "CRAWL",
+      "targetPath": "/blog/how-to-sell-online",
+      "id": "47083de2a0b314129bde5342e07b89144581cd65"
+    },
+    {
+      "url": "https://www.wix.com/blog/how-to-start-a-blog",
+      "source": "CRAWL",
+      "targetPath": "/blog/how-to-start-a-blog",
+      "id": "3743d912ae9fa69934a9a9ffe990601a97b4d2a6"
+    },
+    {
+      "url": "https://www.wix.com/blog/what-makes-a-good-website",
+      "source": "CRAWL",
+      "targetPath": "/blog/what-makes-a-good-website",
+      "id": "72db9d573d4cbb16e2efa8c42601d7884a232ac5"
+    },
+    {
+      "url": "https://www.wix.com/blog/wix-websites-examples",
+      "source": "CRAWL",
+      "targetPath": "/blog/wix-websites-examples",
+      "id": "8f011665b03818fab29b3c6593c882b838d5a4df"
+    },
+    {
+      "url": "https://www.wix.com/builder/drag-and-drop",
+      "source": "CRAWL",
+      "targetPath": "/builder/drag-and-drop",
+      "id": "7408d08a414ed8e0615ed2caef49c74611fd57a3"
+    },
+    {
+      "url": "https://www.wix.com/builder/html",
+      "source": "CRAWL",
+      "targetPath": "/builder/html",
+      "id": "377722f1015aff37ddd8a2f0665d16aa0e360e72"
+    },
+    {
+      "url": "https://www.wix.com/builder/no-code",
+      "source": "CRAWL",
+      "targetPath": "/builder/no-code",
+      "id": "ec6b4ab2415b4ec6f8a0add85b00a36b48cf6443"
+    },
+    {
+      "url": "https://www.wix.com/business/website",
+      "source": "CRAWL",
+      "targetPath": "/business/website",
+      "id": "61e4b1d7d547e9d18a614a8bcec2e474ba9a8ec6"
+    },
+    {
+      "url": "https://www.wix.com/contact",
+      "source": "CRAWL",
+      "targetPath": "/contact",
+      "id": "33b73e038c4ae0bab4cb4551d6044739c112e6eb"
+    },
+    {
+      "url": "https://www.wix.com/domains",
+      "source": "CRAWL",
+      "targetPath": "/domains",
+      "id": "579704bad503434c9b362e9156440772aca699b8"
+    },
+    {
+      "url": "https://www.wix.com/domains/tld-list",
+      "source": "CRAWL",
+      "targetPath": "/domains/tld-list",
+      "id": "ba240f83c70a580f91e4786a1a7057e79fe3765f"
+    },
+    {
+      "url": "https://www.wix.com/ecommerce/online-store",
+      "source": "CRAWL",
+      "targetPath": "/ecommerce/online-store",
+      "id": "04b2e4e4931a10dd409bda500aaa9c1a9c3034fa"
+    },
+    {
+      "url": "https://www.wix.com/ecommerce/website",
+      "source": "CRAWL",
+      "targetPath": "/ecommerce/website",
+      "id": "5471bf465cd143fa37bce13fdf625162635fc5ab"
+    },
+    {
+      "url": "https://www.wix.com/event/website",
+      "source": "CRAWL",
+      "targetPath": "/event/website",
+      "id": "b232227cd8b21e4aa11b08b264526f91e3d5da93"
+    },
+    {
+      "url": "https://www.wix.com/explore/websites",
+      "source": "CRAWL",
+      "targetPath": "/explore/websites",
+      "id": "bba3aba1e8c36e988b2f31572909a2b48045a6a4"
+    },
+    {
+      "url": "https://www.wix.com/explore/websites/site/coco-gonser-photography",
+      "source": "CRAWL",
+      "targetPath": "/explore/websites/site/coco-gonser-photography",
+      "id": "dfc57cabc35bb0372c032d9bd67aecbe0265022a"
+    },
+    {
+      "url": "https://www.wix.com/explore/websites/site/daniel-aristizabal",
+      "source": "CRAWL",
+      "targetPath": "/explore/websites/site/daniel-aristizabal",
+      "id": "4a54f2358f1caa70ea921a1f37e84dbcc8aaa1f8"
+    },
+    {
+      "url": "https://www.wix.com/explore/websites/site/dopple-press",
+      "source": "CRAWL",
+      "targetPath": "/explore/websites/site/dopple-press",
+      "id": "e177b83bccd10e1b7166219c895b0ccafeb8c262"
+    },
+    {
+      "url": "https://www.wix.com/explore/websites/site/hedof",
+      "source": "CRAWL",
+      "targetPath": "/explore/websites/site/hedof",
+      "id": "285fe4a70c62cbd3824d6d09f41fa0e7f46e580c"
+    },
+    {
+      "url": "https://www.wix.com/explore/websites/site/lemontree-%2B-co",
+      "source": "CRAWL",
+      "targetPath": "/explore/websites/site/lemontree-co",
+      "id": "1204be17fa6825df19a6d1004373af2cdd1688cd"
+    },
+    {
+      "url": "https://www.wix.com/explore/websites/site/roee-ben-yehouda",
+      "source": "CRAWL",
+      "targetPath": "/explore/websites/site/roee-ben-yehouda",
+      "id": "3fe5ad8eb7dfe3d1f58aefa83944e93dfe3175af"
+    },
+    {
+      "url": "https://www.wix.com/explore/websites/site/sharon-radisch",
+      "source": "CRAWL",
+      "targetPath": "/explore/websites/site/sharon-radisch",
+      "id": "b2a8676ffd7aeefb30c13c466404a30ca30a499b"
+    },
+    {
+      "url": "https://www.wix.com/explore/websites/site/sonja-van-duelman",
+      "source": "CRAWL",
+      "targetPath": "/explore/websites/site/sonja-van-duelman",
+      "id": "5df7692b56ddabef461ba29e80a626bf5346aad2"
+    },
+    {
+      "url": "https://www.wix.com/features/ai",
+      "source": "CRAWL",
+      "targetPath": "/features/ai",
+      "id": "f7219f36acd24e0fd95f27dae46546761b8ce38d"
+    },
+    {
+      "url": "https://www.wix.com/features/crm",
+      "source": "CRAWL",
+      "targetPath": "/features/crm",
+      "id": "bd18c859ceef4de2d3deb7b0881b9fb765e15d88"
+    },
+    {
+      "url": "https://www.wix.com/features/email-marketing",
+      "source": "CRAWL",
+      "targetPath": "/features/email-marketing",
+      "id": "43544878c7400ab83bd365eb22efb437ec273df8"
+    },
+    {
+      "url": "https://www.wix.com/features/main",
+      "source": "CRAWL",
+      "targetPath": "/features/main",
+      "id": "e064134d7b24a6cb75b65677675437862e580656"
+    },
+    {
+      "url": "https://www.wix.com/free/web-hosting",
+      "source": "CRAWL",
+      "targetPath": "/free/web-hosting",
+      "id": "cc674df221ef3061478dfcd0eae5075eee4ca3be"
+    },
+    {
+      "url": "https://www.wix.com/logo/maker",
+      "source": "CRAWL",
+      "targetPath": "/logo/maker",
+      "id": "0bacaff1d7bc215b48b6889cb8887329b2906231"
+    },
+    {
+      "url": "https://www.wix.com/manage/analytics",
+      "source": "CRAWL",
+      "targetPath": "/manage/analytics",
+      "id": "517c64aa70617e6a2dd1e03c3d9f783e8e30e552"
+    },
+    {
+      "url": "https://www.wix.com/marketplace",
+      "source": "CRAWL",
+      "targetPath": "/marketplace",
+      "id": "d1f446fdf1adb4a9c970445cad82d4ac5751ec2e"
+    },
+    {
+      "url": "https://www.wix.com/mobile/wix-app",
+      "source": "CRAWL",
+      "targetPath": "/mobile/wix-app",
+      "id": "45f07856d04b9bc63d7d0587c7157e2dc7cbf01b"
+    },
+    {
+      "url": "https://www.wix.com/payments",
+      "source": "CRAWL",
+      "targetPath": "/payments",
+      "id": "f5834386f63659605315f29f6893ee4eeb1aada1"
+    },
+    {
+      "url": "https://www.wix.com/plans",
+      "source": "CRAWL",
+      "targetPath": "/plans",
+      "id": "369783250e8163f49c3e24874fa11aa1325c273a"
+    },
+    {
+      "url": "https://www.wix.com/portfolio-website",
+      "source": "CRAWL",
+      "targetPath": "/portfolio-website",
+      "id": "cbe85948b0f999c3bcc829136df7a7c9165c8029"
+    },
+    {
+      "url": "https://www.wix.com/restaurant/website",
+      "source": "CRAWL",
+      "targetPath": "/restaurant/website",
+      "id": "49b2b8ba38a93597a4f55d5b34faff31d04dffcc"
+    },
+    {
+      "url": "https://www.wix.com/scheduling-software",
+      "source": "CRAWL",
+      "targetPath": "/scheduling-software",
+      "id": "d675ba0a1e5d66fbde39f569f48a0fe7918264c0"
+    },
+    {
+      "url": "https://www.wix.com/seo",
+      "source": "CRAWL",
+      "targetPath": "/seo",
+      "id": "1de79dc3bd463cabd904792f4a43d9aa7724764f"
+    },
+    {
+      "url": "https://www.wix.com/start/blog",
+      "source": "CRAWL",
+      "targetPath": "/start/blog",
+      "id": "c803d698d8fc9b5b112344a228e0c52c85c82b07"
+    },
+    {
+      "url": "https://www.wix.com/studio",
+      "source": "CRAWL",
+      "targetPath": "/studio",
+      "id": "aa5d9bab80ce344227950b259e74f1711c33a4a4"
+    },
+    {
+      "url": "https://www.wix.com/studio/developers",
+      "source": "CRAWL",
+      "targetPath": "/studio/developers",
+      "id": "f5237b352f4c527a26cd2bd04bc4ac69aa2d5de6"
+    },
+    {
+      "url": "https://www.wix.com/studio/enterprise",
+      "source": "CRAWL",
+      "targetPath": "/studio/enterprise",
+      "id": "e11368eb3a1752722af3ada3bd8c85253d38d3d2"
+    },
+    {
+      "url": "https://www.wix.com/tools",
+      "source": "CRAWL",
+      "targetPath": "/tools",
+      "id": "1d9a800ab79ec281c90c4cbac9042e430736ddef"
+    },
+    {
+      "url": "https://www.wix.com/tools/business-name-generator",
+      "source": "CRAWL",
+      "targetPath": "/tools/business-name-generator",
+      "id": "3e793b776332088937be3d325275e11582ff263a"
+    },
+    {
+      "url": "https://www.wix.com/website-security",
+      "source": "CRAWL",
+      "targetPath": "/website-security",
+      "id": "e1fd55c6784b1b3bb1bf56a2acde6a2425800aae"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/1728",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/1728",
+      "id": "72ebaf3eec5b8119e3a00c967332d3f4cd1c3a7f"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/1739",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/1739",
+      "id": "e4287b91f482a1a0bbb9e6a62ebecb80ad5b7dec"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/1792",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/1792",
+      "id": "2c0d20e648fd51f80156632bf09c595e264457a9"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/1846",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/1846",
+      "id": "c5b8e6f7fb36d81cd48f1816db53108198bd07c1"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/1850",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/1850",
+      "id": "4138c6f2f9e27c224419eed65f58fc0d7cd3b25b"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/1915",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/1915",
+      "id": "e13a14ec814d708d7842103cde8afa508f27b85b"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/2084",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/2084",
+      "id": "998334a36c761aa71687492f66238d066de07e57"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/2512",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/2512",
+      "id": "12683f25c432e7c03d2c7674a647a0c6545c3a95"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/2710",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/2710",
+      "id": "2f2f147e64af87fcf03890a26e24ab3446cca3a7"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/2870",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/2870",
+      "id": "39b8cebd8175a02678ba57e20a7f9004cdd95ef2"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/2962",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/2962",
+      "id": "389cda72bebfd5288869d4945d0e77aa87298940"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/2966",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/2966",
+      "id": "ffa8217df461433793a5d432f8ea0f283a32b345"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/3055",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/3055",
+      "id": "e50fd0b4aa7a891065f6e5ca5dff4ca5a6ab5858"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/3079",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/3079",
+      "id": "c5ca9e31b77ceee80457fc025e15ea02b609b287"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/3121",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/3121",
+      "id": "ffbbc316b7fa35f3cb996f1e27fa2a1cc2b85501"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/3143",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/3143",
+      "id": "07f89abf5bad60d49523ab78a56422ee1b58efc2"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/3173",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/3173",
+      "id": "e655b606caead1dbd0f2913a5d4d7da2ee3f7d85"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/3174",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/3174",
+      "id": "bed10975eec950159fc8310f1cfc36f72018154b"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/3401",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/3401",
+      "id": "dc1e00d61fa298b63597f78ecf73b4ab7213276c"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/3416",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/3416",
+      "id": "da9da0d620e103af746df48cce6bba6286020135"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/3417",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/3417",
+      "id": "158873fd75c3e745024ccfa8daf0b9404e1d668d"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4063",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4063",
+      "id": "71ac8db002a03850b337a242cde2d89c60de2456"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4064",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4064",
+      "id": "a27238c1786b0305a7d40d7e925ce1a09af70bec"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4171",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4171",
+      "id": "668223c71eb916f681c79ffbf86ac7b213094e7b"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4186",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4186",
+      "id": "93c3a697f1be4167ca070bffc94b7e4687010485"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4191",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4191",
+      "id": "79db0b0ab6e83aab5bfc3155a704565f08801c26"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4218",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4218",
+      "id": "62e02a6ede3ea7340b4ef1e7701c08cc833fa7df"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4249",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4249",
+      "id": "0210dc7da7583c7dc981c2ea198b8ae783cedc13"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4410",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4410",
+      "id": "9148227551648df9a3a7d1d9c0bbe76b0b30ed84"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4411",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4411",
+      "id": "0c8bed869197b5d2a6f1df366154ff6f6e6959ae"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4537",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4537",
+      "id": "987ca0a2d73b3d11e3b2567ad0acfa65c487ae01"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4655",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4655",
+      "id": "ef8c5f51715d026c3641cb28ac2bc6cb355845ae"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4658",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4658",
+      "id": "d496a14553b7e84c5ca03818e190796838927e38"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/4882",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/4882",
+      "id": "6b3448357c2c06a565cf3a7d2a6ef7ff0d0f0c33"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/5003",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/5003",
+      "id": "dfcf9a7c7f1aa1d2c78d74d066196520e98f53aa"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/5188",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/5188",
+      "id": "012760fddf72b1a4da3a953a40f4e1eb30019406"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/5224",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/5224",
+      "id": "4c922df380f4832d89f2725bb313349518e509b7"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/5244",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/5244",
+      "id": "57d0a6a1188ea9c66a3689f06ef590cf2be11bb2"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/5379",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/5379",
+      "id": "2e8fb63007e8e17d6c18faae2d4921cbfd44395b"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/5402",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/5402",
+      "id": "f5fe896f4cb9995c3720dd49dd7277b930bf2732"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/5518",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/5518",
+      "id": "b9c39035008f5e8ee6b30ef9765f4db0798b1a07"
+    },
+    {
+      "url": "https://www.wix.com/website-template/view/html/5562",
+      "source": "CRAWL",
+      "targetPath": "/website-template/view/html/5562",
+      "id": "7f57bc631a60503ba69a049122847f43907f64c2"
+    },
+    {
+      "url": "https://www.wix.com/website/design",
+      "source": "CRAWL",
+      "targetPath": "/website/design",
+      "id": "58603a54e96007f435e0908b3a002e7087552311"
+    },
+    {
+      "url": "https://www.wix.com/website/templates",
+      "source": "CRAWL",
+      "targetPath": "/website/templates",
+      "id": "168181918409dcc353ecb1a58a009fc5d23f016d"
+    },
+    {
+      "url": "https://www.wix.com/website/templates/html/online-store",
+      "source": "CRAWL",
+      "targetPath": "/website/templates/html/online-store",
+      "id": "6d70cca4698a2db75bd2befd4bf164f57f23a1ea"
+    },
+    {
+      "url": "https://www.wix.com/wixel",
+      "source": "CRAWL",
+      "targetPath": "/wixel",
+      "id": "58836ca194d7970278e59e339efd7c4c5ceaca5c"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.wix.com/intro/sg",
+      "status": "302 Found Redirect: https://users.wix.com/signin?originUrl=https%3A%2F%2Fwww.wix.com%2Fintro%2Fsg&redirectTo=https%3A%2F%2Fwww.wix.com%2Fintro%2Fsg&overrideLocale=en"
+    }
+  ],
+  "errorCountMessage": "{\"E_302\":1}",
+  "error": null
+}
