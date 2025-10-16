@@ -305,7 +305,8 @@
           "uuid": "8871492d-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown4"
     },
     {
       "name": "header",
@@ -362,7 +363,8 @@
           "uuid": "95cf6621-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown8"
     },
     {
       "name": "unknown",
@@ -374,7 +376,8 @@
           "uuid": "e1a8e834-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown9"
     },
     {
       "name": "unknown",
@@ -386,7 +389,8 @@
           "uuid": "ce5d50cc-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown10"
     },
     {
       "name": "unknown",
@@ -398,7 +402,8 @@
           "uuid": "2f71229b-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown11"
     },
     {
       "name": "header",
@@ -457,7 +462,8 @@
           "uuid": "bf014b99-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown15"
     },
     {
       "name": "Hero",
@@ -484,7 +490,8 @@
           "uuid": "d8a6148a-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown17"
     },
     {
       "name": "Cards",
@@ -511,7 +518,8 @@
           "uuid": "284f448a-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown19"
     },
     {
       "name": "Cards",
@@ -539,7 +547,8 @@
           "uuid": "909fa599-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown21"
     },
     {
       "name": "unknown",
@@ -551,7 +560,8 @@
           "uuid": "cd70b819-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown22"
     },
     {
       "name": "unknown",
@@ -563,7 +573,8 @@
           "uuid": "0c329c13-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown23"
     },
     {
       "name": "Cards",
