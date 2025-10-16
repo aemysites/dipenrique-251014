@@ -1,0 +1,742 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/altone-lane-1",
+          "urlHash": "0c329c13547ece2bd49f112f710f4248649ceffb",
+          "uuid": "0c329c13-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/queens-way-1",
+          "urlHash": "284f448a1356221117687e722bdd89de1f62f92f",
+          "uuid": "284f448a-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/down-avenue",
+          "urlHash": "2f71229b7fc92c2c91207f2baef5809779e60968",
+          "uuid": "2f71229b-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company",
+          "urlHash": "60b3183d167cd0dab53246cc371d9faaea4f53dc",
+          "uuid": "60b3183d-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/tyne-road-1",
+          "urlHash": "7fb10ec40a5835d0d5ac5f1714063efe0cad5978",
+          "uuid": "7fb10ec4-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/tyne-road",
+          "urlHash": "8871492d8fb34b3738e2dcaa4652175c8341ee5e",
+          "uuid": "8871492d-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/down-avenue-1",
+          "urlHash": "909fa599bb450e943e0636caeb35b917703f90f9",
+          "uuid": "909fa599-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/agents",
+          "urlHash": "9181eedda1354dccf3b37102816102ba2dd4d9e3",
+          "uuid": "9181eedd-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/randall-close-1",
+          "urlHash": "95cf662156cb266485a2448464dfd9c181dc046d",
+          "uuid": "95cf6621-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/altone-lane",
+          "urlHash": "bf014b995cbec1db5b83fae425f36fd46d149b84",
+          "uuid": "bf014b99-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/chatsworth-drive-1",
+          "urlHash": "cd70b819b1a7c794bc52d75155970454bdf799a2",
+          "uuid": "cd70b819-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/queens-way",
+          "urlHash": "ce5d50cc053ae3245c6d76051efc5cb5e043b186",
+          "uuid": "ce5d50cc-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/chatsworth-drive",
+          "urlHash": "d8a6148a5e2804a350b8e8fa16dc3bc344f95da3",
+          "uuid": "d8a6148a-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/randall-close",
+          "urlHash": "e1a8e8343ecb4f7529cc2ebf68e69c14adc900fb",
+          "uuid": "e1a8e834-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/book-online",
+          "urlHash": "fc85529bf8f32433f1007b143397022f1bcc450c",
+          "uuid": "fc85529b-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        }
+      ],
+      "styles": {
+        "height": 85
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/altone-lane-1",
+          "urlHash": "0c329c13547ece2bd49f112f710f4248649ceffb",
+          "uuid": "0c329c13-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/queens-way-1",
+          "urlHash": "284f448a1356221117687e722bdd89de1f62f92f",
+          "uuid": "284f448a-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/down-avenue",
+          "urlHash": "2f71229b7fc92c2c91207f2baef5809779e60968",
+          "uuid": "2f71229b-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company",
+          "urlHash": "60b3183d167cd0dab53246cc371d9faaea4f53dc",
+          "uuid": "60b3183d-06-25c242521dc28f055c49e7fb74deb4a9ac34c282",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/tyne-road-1",
+          "urlHash": "7fb10ec40a5835d0d5ac5f1714063efe0cad5978",
+          "uuid": "7fb10ec4-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/tyne-road",
+          "urlHash": "8871492d8fb34b3738e2dcaa4652175c8341ee5e",
+          "uuid": "8871492d-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/down-avenue-1",
+          "urlHash": "909fa599bb450e943e0636caeb35b917703f90f9",
+          "uuid": "909fa599-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/agents",
+          "urlHash": "9181eedda1354dccf3b37102816102ba2dd4d9e3",
+          "uuid": "9181eedd-03-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/randall-close-1",
+          "urlHash": "95cf662156cb266485a2448464dfd9c181dc046d",
+          "uuid": "95cf6621-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/altone-lane",
+          "urlHash": "bf014b995cbec1db5b83fae425f36fd46d149b84",
+          "uuid": "bf014b99-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/chatsworth-drive-1",
+          "urlHash": "cd70b819b1a7c794bc52d75155970454bdf799a2",
+          "uuid": "cd70b819-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/queens-way",
+          "urlHash": "ce5d50cc053ae3245c6d76051efc5cb5e043b186",
+          "uuid": "ce5d50cc-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/chatsworth-drive",
+          "urlHash": "d8a6148a5e2804a350b8e8fa16dc3bc344f95da3",
+          "uuid": "d8a6148a-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/randall-close",
+          "urlHash": "e1a8e8343ecb4f7529cc2ebf68e69c14adc900fb",
+          "uuid": "e1a8e834-02-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/book-online",
+          "urlHash": "fc85529bf8f32433f1007b143397022f1bcc450c",
+          "uuid": "fc85529b-03-75462c7493a9418be108175a4f18e50939073217",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(203, 180, 146) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/altone-lane-1",
+          "urlHash": "0c329c13547ece2bd49f112f710f4248649ceffb",
+          "uuid": "0c329c13-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/down-avenue",
+          "urlHash": "2f71229b7fc92c2c91207f2baef5809779e60968",
+          "uuid": "2f71229b-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company",
+          "urlHash": "60b3183d167cd0dab53246cc371d9faaea4f53dc",
+          "uuid": "60b3183d-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/down-avenue-1",
+          "urlHash": "909fa599bb450e943e0636caeb35b917703f90f9",
+          "uuid": "909fa599-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/agents",
+          "urlHash": "9181eedda1354dccf3b37102816102ba2dd4d9e3",
+          "uuid": "9181eedd-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/chatsworth-drive-1",
+          "urlHash": "cd70b819b1a7c794bc52d75155970454bdf799a2",
+          "uuid": "cd70b819-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/queens-way",
+          "urlHash": "ce5d50cc053ae3245c6d76051efc5cb5e043b186",
+          "uuid": "ce5d50cc-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/chatsworth-drive",
+          "urlHash": "d8a6148a5e2804a350b8e8fa16dc3bc344f95da3",
+          "uuid": "d8a6148a-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/book-online",
+          "urlHash": "fc85529bf8f32433f1007b143397022f1bcc450c",
+          "uuid": "fc85529b-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 2,
+      "source": "Header",
+      "target": "Header (header2)",
+      "key": "header2",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/tyne-road-1",
+          "urlHash": "7fb10ec40a5835d0d5ac5f1714063efe0cad5978",
+          "uuid": "7fb10ec4-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 3,
+      "source": "Hero",
+      "target": "Hero (hero3)",
+      "key": "hero3",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/tyne-road-1",
+          "urlHash": "7fb10ec40a5835d0d5ac5f1714063efe0cad5978",
+          "uuid": "7fb10ec4-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 4,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/tyne-road",
+          "urlHash": "8871492d8fb34b3738e2dcaa4652175c8341ee5e",
+          "uuid": "8871492d-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 5,
+      "source": "Header",
+      "target": "Header (header5)",
+      "key": "header5",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/tyne-road",
+          "urlHash": "8871492d8fb34b3738e2dcaa4652175c8341ee5e",
+          "uuid": "8871492d-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 6,
+      "source": "Header",
+      "target": "Header (header6)",
+      "key": "header6",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/randall-close",
+          "urlHash": "e1a8e8343ecb4f7529cc2ebf68e69c14adc900fb",
+          "uuid": "e1a8e834-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 7,
+      "source": "Header",
+      "target": "Header (header7)",
+      "key": "header7",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/randall-close-1",
+          "urlHash": "95cf662156cb266485a2448464dfd9c181dc046d",
+          "uuid": "95cf6621-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 8,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/randall-close-1",
+          "urlHash": "95cf662156cb266485a2448464dfd9c181dc046d",
+          "uuid": "95cf6621-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/randall-close",
+          "urlHash": "e1a8e8343ecb4f7529cc2ebf68e69c14adc900fb",
+          "uuid": "e1a8e834-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/queens-way",
+          "urlHash": "ce5d50cc053ae3245c6d76051efc5cb5e043b186",
+          "uuid": "ce5d50cc-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/down-avenue",
+          "urlHash": "2f71229b7fc92c2c91207f2baef5809779e60968",
+          "uuid": "2f71229b-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 12,
+      "source": "Header",
+      "target": "Header (header12)",
+      "key": "header12",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/queens-way-1",
+          "urlHash": "284f448a1356221117687e722bdd89de1f62f92f",
+          "uuid": "284f448a-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 13,
+      "source": "Cards",
+      "target": "Cards (cards13)",
+      "key": "cards13",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/book-online",
+          "urlHash": "fc85529bf8f32433f1007b143397022f1bcc450c",
+          "uuid": "fc85529b-02-d42bd454cef874da9ea1f348bdcb9c2b1a57347b",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 14,
+      "source": "Cards",
+      "target": "Cards (cards14)",
+      "key": "cards14",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company",
+          "urlHash": "60b3183d167cd0dab53246cc371d9faaea4f53dc",
+          "uuid": "60b3183d-02-fbd57211b35b300e7679d1acd7ed6d2bed0de8ae",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/section[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 15,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/altone-lane",
+          "urlHash": "bf014b995cbec1db5b83fae425f36fd46d149b84",
+          "uuid": "bf014b99-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 16,
+      "source": "Hero",
+      "target": "Hero (hero16)",
+      "key": "hero16",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company",
+          "urlHash": "60b3183d167cd0dab53246cc371d9faaea4f53dc",
+          "uuid": "60b3183d-01-322cb0b8e468192e9e7d7218a5252c9339c7ae67",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 17,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/chatsworth-drive",
+          "urlHash": "d8a6148a5e2804a350b8e8fa16dc3bc344f95da3",
+          "uuid": "d8a6148a-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 18,
+      "source": "Cards",
+      "target": "Cards (cards18)",
+      "key": "cards18",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company",
+          "urlHash": "60b3183d167cd0dab53246cc371d9faaea4f53dc",
+          "uuid": "60b3183d-04-e59b7f1f18e963fa33ecfd56dd2afa85e84cabb4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 19,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/queens-way-1",
+          "urlHash": "284f448a1356221117687e722bdd89de1f62f92f",
+          "uuid": "284f448a-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 20,
+      "source": "Cards",
+      "target": "Cards (cards20)",
+      "key": "cards20",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company",
+          "urlHash": "60b3183d167cd0dab53246cc371d9faaea4f53dc",
+          "uuid": "60b3183d-05-487460e7d9b93062567f486dd9f2c66e86f78678",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 21,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/down-avenue-1",
+          "urlHash": "909fa599bb450e943e0636caeb35b917703f90f9",
+          "uuid": "909fa599-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 22,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/chatsworth-drive-1",
+          "urlHash": "cd70b819b1a7c794bc52d75155970454bdf799a2",
+          "uuid": "cd70b819-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 23,
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/altone-lane-1",
+          "urlHash": "0c329c13547ece2bd49f112f710f4248649ceffb",
+          "uuid": "0c329c13-01-7281716fb4cc3e32ae1ba13934ee3102b3b746dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 24,
+      "source": "Cards",
+      "target": "Cards (cards24)",
+      "key": "cards24",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/agents",
+          "urlHash": "9181eedda1354dccf3b37102816102ba2dd4d9e3",
+          "uuid": "9181eedd-02-ca9aa25a6029247b856387e69e2732982c200851",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 25,
+      "source": "Header",
+      "target": "Header (header25)",
+      "key": "header25",
+      "instances": [
+        {
+          "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/altone-lane",
+          "urlHash": "bf014b995cbec1db5b83fae425f36fd46d149b84",
+          "uuid": "bf014b99-00-78f2ac0b77eed9695495722ed10cca19049876d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/header[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/altone-lane-1",
+      "urlHash": "0c329c13547ece2bd49f112f710f4248649ceffb",
+      "uuid": "0c329c13-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/queens-way-1",
+      "urlHash": "284f448a1356221117687e722bdd89de1f62f92f",
+      "uuid": "284f448a-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/down-avenue",
+      "urlHash": "2f71229b7fc92c2c91207f2baef5809779e60968",
+      "uuid": "2f71229b-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company",
+      "urlHash": "60b3183d167cd0dab53246cc371d9faaea4f53dc",
+      "uuid": "60b3183d-03-ca9aa25a6029247b856387e69e2732982c200851",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company",
+      "urlHash": "60b3183d167cd0dab53246cc371d9faaea4f53dc",
+      "uuid": "60b3183d-06-25c242521dc28f055c49e7fb74deb4a9ac34c282",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[4]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/tyne-road-1",
+      "urlHash": "7fb10ec40a5835d0d5ac5f1714063efe0cad5978",
+      "uuid": "7fb10ec4-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/tyne-road",
+      "urlHash": "8871492d8fb34b3738e2dcaa4652175c8341ee5e",
+      "uuid": "8871492d-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/down-avenue-1",
+      "urlHash": "909fa599bb450e943e0636caeb35b917703f90f9",
+      "uuid": "909fa599-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/agents",
+      "urlHash": "9181eedda1354dccf3b37102816102ba2dd4d9e3",
+      "uuid": "9181eedd-01-d4dc35d38e6769c350e0f8c4b1cba81aea96eadc",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/agents",
+      "urlHash": "9181eedda1354dccf3b37102816102ba2dd4d9e3",
+      "uuid": "9181eedd-03-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/randall-close-1",
+      "urlHash": "95cf662156cb266485a2448464dfd9c181dc046d",
+      "uuid": "95cf6621-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/altone-lane",
+      "urlHash": "bf014b995cbec1db5b83fae425f36fd46d149b84",
+      "uuid": "bf014b99-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/chatsworth-drive-1",
+      "urlHash": "cd70b819b1a7c794bc52d75155970454bdf799a2",
+      "uuid": "cd70b819-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/queens-way",
+      "urlHash": "ce5d50cc053ae3245c6d76051efc5cb5e043b186",
+      "uuid": "ce5d50cc-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/chatsworth-drive",
+      "urlHash": "d8a6148a5e2804a350b8e8fa16dc3bc344f95da3",
+      "uuid": "d8a6148a-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/booking-calendar/randall-close",
+      "urlHash": "e1a8e8343ecb4f7529cc2ebf68e69c14adc900fb",
+      "uuid": "e1a8e834-02-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/book-online",
+      "urlHash": "fc85529bf8f32433f1007b143397022f1bcc450c",
+      "uuid": "fc85529b-01-b2734ccc72e4e7b42e27c12e4e85ca5e95e70884",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.wix.com/demone2/real-estate-company/book-online",
+      "urlHash": "fc85529bf8f32433f1007b143397022f1bcc450c",
+      "uuid": "fc85529b-03-75462c7493a9418be108175a4f18e50939073217",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/footer[1]",
+      "section": "section-1"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(203, 180, 146) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 14
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 4
+    },
+    {
+      "name": "section-3",
+      "background": "rgba(30, 48, 84, 0.9) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    }
+  ]
+}
